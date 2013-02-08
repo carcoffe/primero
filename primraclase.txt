@@ -1,0 +1,14 @@
+git
+crear llav para encriptar info
+help.github.com/articles/generating-ssh-keys
+cuando se va a mandar info  se necesitan dos llaves una en maquina y otra
+ en el servidor . si no hay clave no se puede hacer nada.
+lagartija28
+se tiene que agregar la llave , crnado la cuenta  y buscas el directorio de 
+en la carpeta, copias y pegas en la pagina web 
+cd c:
+cd repo
+para crear  el repo
+git init
+para agregar
+git add.o git add nombre
